@@ -13,3 +13,4 @@ print('Hello, world!')
 ```
 * Make changes to OpenShift so that the python script created in the previous step is invoked every time the application is built as a post-commit build hook. Build the application and send the screenshot of the build log showing the python script output.
 # day6-building-applications
+# day6-building-applications
